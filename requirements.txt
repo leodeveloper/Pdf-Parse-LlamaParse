@@ -1,0 +1,4 @@
+llama-parse
+python-dotenv
+streamlit
+pypdf
